@@ -11,3 +11,5 @@ pip install -r requirements.txt
 python discord_boost_checker.py --token <your_discord_token>
 
 Grab your token from the browser devtools (Application > Local Storage > token) or a Discord client mod. It needs the `guilds` scope.
+
+<!-- checked: 2026-10-04 -->
